@@ -1,17 +1,8 @@
 {
-  "name": "livechat",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "description": "",
   "dependencies": {
-    "websocket": "^1.0.35"
-  },
-  "devDependencies": {
-    "@types/websocket": "^1.0.10"
+    "@headlessui/react": "^2.2.0",
+    "@heroicons/react": "^2.2.0",
+    "@tailwindcss/vite": "^4.0.14",
+    "tailwindcss": "^4.0.14"
   }
 }
